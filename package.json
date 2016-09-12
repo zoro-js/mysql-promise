@@ -1,5 +1,5 @@
 {
-  "name": "mysql-promise",
+  "name": "zoro-mysql-promise",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zyy7259/mysql-promise.git"
+    "url": "git+https://github.com/zoro-js/zoro-mysql-promise.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zyy7259/mysql-promise/issues"
+    "url": "https://github.com/zoro-js/zoro-mysql-promise/issues"
   },
-  "homepage": "https://github.com/zyy7259/mysql-promise#readme",
+  "homepage": "https://github.com/zoro-js/zoro-mysql-promise#readme",
   "dependencies": {
     "delegates": "^1.0.0",
     "mysql": "^2.11.1"
